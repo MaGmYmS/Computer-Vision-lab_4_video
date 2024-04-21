@@ -1,0 +1,8 @@
+/segmentation_with_edge_detection.mp4
+/binarize_image_ptile_threshold.mp4
+/binarize_image_kmeans_segmentation.mp4
+/binarize_image_global_threshold.mp4
+/binarize_image_adaptive_thresholding_min_max.mp4
+/binarize_image_adaptive_thresholding_median.mp4
+/binarize_image_adaptive_thresholding_mean.mp4
+/.venv/
